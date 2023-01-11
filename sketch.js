@@ -7,7 +7,7 @@ let font2;
 
 function setup() {
 //   createCanvas(windowWidth-40, 700+(windowWidth-1700)*0.3);
-  createCanvas(windowWidth, windowWidth*0.55).parent('vb_logo_p5');
+  createCanvas(windowWidth-40, 700+(windowWidth-1700)*0.3).parent('vb_logo_p5');
 
   first = createVector(0, 0);
   second= createVector(0, 0);
