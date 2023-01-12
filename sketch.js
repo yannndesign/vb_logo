@@ -13,8 +13,8 @@ function setup() {
   second= createVector(0, 0);
   third= createVector(0, 0);
 
-  font1 = loadFont('assets/EduDiatypeSemi-Mono-Regular.otf');
-  font2 = loadFont('assets/AvenirNextLTPro-Demi.otf');
+  font1 = loadFont('https://yannndesign.github.io/vb_logo/assets/EduDiatypeSemi-Mono-Regular.otf');
+  font2 = loadFont('https://yannndesign.github.io/vb_logo/assets/AvenirNextLTPro-Demi.otf');
 }
 
 function draw() {
